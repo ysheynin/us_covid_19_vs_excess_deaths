@@ -1,5 +1,5 @@
 # USA Reported COVID-19 Deaths  vs. Excess Deaths Comparison
-Comparing reported for USA COVID_19 deaths with Excess Deaths
+Comparing number of reported COVID_19 deaths vs 2020/2019 Excess Deaths
 
 
 Inspired by the results presented in this paper:
